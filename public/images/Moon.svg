@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="72" height="72" viewBox="0 0 72 72">
+  <defs>
+    <clipPath id="clip-moon">
+      <rect width="72" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="moon" clip-path="url(#clip-moon)">
+    <rect width="72" height="72" fill="rgba(255,255,255,0)"/>
+    <g id="moon-2" data-name="moon" transform="translate(-0.429 -0.571)">
+      <path id="Moon-2-2" data-name="Moon-2" d="M38.652,38.8A26.882,26.882,0,0,1,45.131,17,21.706,21.706,0,1,0,54.4,58.946C46.159,55.016,40.1,47.785,38.652,38.8Z" transform="translate(-3.571 -2.429)" fill="#003da5"/>
+    </g>
+  </g>
+</svg>

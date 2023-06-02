@@ -1,0 +1,88 @@
+{
+    "hurDetails": [
+        {
+            "id": 1,
+            "img": "./images/icon-brannande.svg",
+            "title": "Brännande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 2,
+            "img": "./images/Icon-stickande.svg",
+            "title": "Stickande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 3,
+            "img": "./images/icon-huggande.svg",
+            "title": "Huggande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 4,
+            "img": "./images/Icon-molande.svg",
+            "title": "Molande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 5,
+            "img": "./images/Icon-tryckande.svg",
+            "title": "Tryckande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 6,
+            "img": "./images/Icon-pulserande.svg",
+            "title": "Pulserande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 7,
+            "img": "./images/Icon-ilande.svg",
+            "title": "Ilande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 8,
+            "img": "./images/Icon-krampartat.svg",
+            "title": "Krampartat",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 9,
+            "img": "./images/Icon-bultande.svg",
+            "title": "Bultande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 10,
+            "img": "./images/Icon-krypande.svg",
+            "title": "Krypande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 11,
+            "img": "./images/Icon-skarande.svg",
+            "title": "Skärande",
+            "cols": 1,
+            "selected": false
+        },
+        {
+            "id": 12,
+            "img": "./images/Icon-blixtrande.svg",
+            "title": "Blixtrande",
+            "cols": 1,
+            "selected": false
+        }
+    ]
+}

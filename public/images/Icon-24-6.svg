@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="250" height="314" viewBox="0 0 250 314">
+  <defs>
+    <clipPath id="clip-Icon-24-6">
+      <rect width="250" height="314"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-24-6" clip-path="url(#clip-Icon-24-6)">
+    <rect width="250" height="314" fill="rgba(0,0,0,0)"/>
+    <g id="Icon-24-06" transform="translate(-740.993 -241.693)">
+      <path id="Path_580" data-name="Path 580" d="M3189.027,2167.75c-35.307,20.456-92.26,45.67-163.089,49.619q-12.144.679-24.317.5v4c1.564.02,3.128.053,4.693.053q10.044,0,20.082-.561c72.254-4.04,130.239-29.721,166.157-50.553,38.88-22.55,58.849-42.394,59.068-42.614v-5.86a362.832,362.832,0,0,1-62.594,45.417Z" transform="translate(-2261.128 -1666.562)" fill="#003da5" stroke="#003da5" stroke-width="1"/>
+      <path id="Path_614" data-name="Path 614" d="M304.509,424.985a31.358,31.358,0,0,1,7.559-25.429,25.324,25.324,0,1,0,10.815,48.937C313.265,443.908,306.2,435.472,304.509,424.985Z" transform="translate(560.411 41.137)" fill="#003da5"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+{
+    "tidDetails": [
+        {
+            "id": 1,
+            "img": "./images/icon-6-12.svg",
+            "icon": "./images/Halvsol.svg",
+            "title": "6-12",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 2,
+            "img": "./images/Icon-12-18.svg",
+            "icon": "./images/Helsol.svg",
+            "title": "12-18",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id":3,
+            "img": "./images/Icon-18-24.svg",
+            "icon": "./images/Halvsol.svg",
+            "title": "18-24",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 4,
+            "img": "./images/Icon-24-6.svg",
+            "icon": "./images/Moon.svg",
+            "title": "24-06",
+            "cols":1,
+            "selected": false
+        }
+    ]
+}

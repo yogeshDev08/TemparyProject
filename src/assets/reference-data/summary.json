@@ -1,0 +1,24 @@
+{
+    "summaryDetails": [
+        {
+            "id": 1,
+            "img": "./images/Centrala-fram.svg",
+            "title": "Centrala-fram"
+        },
+        {
+            "id": 2,
+            "img": "./images/Centrala-bak.svg",
+            "title": "Centrala-bak"
+        },
+        {
+            "id": 3,
+            "img": "./images/Perifera-fram.svg",
+            "title": "Perifera-fram"
+        },
+        {
+            "id": 4,
+            "img": "./images/Perifera-bak.svg",
+            "title": "Perifera-bak"
+        }
+    ]
+}

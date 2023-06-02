@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="72" viewBox="0 0 113 72">
+  <defs>
+    <clipPath id="clip-Icon-blixtrande">
+      <rect width="113" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-blixtrande" clip-path="url(#clip-Icon-blixtrande)">
+    <rect width="113" height="72" fill="rgba(0,0,0,0)"/>
+    <g id="Icon-blixtrande-2" data-name="Icon-blixtrande" transform="translate(-1216.97 -93.3)">
+      <path id="Path_464" data-name="Path 464" d="M1319.3,113.508,1288.9,130.289l9.29,6.338-14.826,10.758,7.668,3.976s-15.875,12.487-15.585,12.345,21.349-13.309,21.349-13.309l-6.057-3.795,15.563-12.3-6.74-5.586Z" transform="translate(-10.182 -3.495)" fill="#668bc9"/>
+      <path id="Path_465" data-name="Path 465" d="M1240.47,100.3l-3.5,27.183,15.431-3.47,4.084,35.3,1.124-39.44-14.433-.8Z" fill="#3364b7"/>
+      <path id="Path_466" data-name="Path 466" d="M1271.99,137.778l-11.012,14.258,9.463,2.76-5.917,19.656,11.346-21.741-8.6-3.367Z" transform="translate(-6.354 -9.919)" fill="#ccd8ed"/>
+    </g>
+  </g>
+</svg>

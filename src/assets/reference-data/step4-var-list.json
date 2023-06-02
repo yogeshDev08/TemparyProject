@@ -1,0 +1,14 @@
+{
+    "varDetails": [
+        {
+            "id": 1,
+            "img": "./images/Kropp-bak.svg",
+            "title": "Kropp-bak"
+        },
+        {
+            "id": 2,
+            "img": "./images/Kropp-fram.svg",
+            "title": "Kropp-fram"
+        }
+    ]
+}

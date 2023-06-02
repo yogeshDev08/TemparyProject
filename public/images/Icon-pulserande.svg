@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="72" viewBox="0 0 113 72">
+  <defs>
+    <clipPath id="clip-Icon-pulserande">
+      <rect width="113" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-pulserande" clip-path="url(#clip-Icon-pulserande)">
+    <rect width="113" height="72" fill="rgba(0,0,0,0)"/>
+    <path id="Icon-pulserande-2" data-name="Icon-pulserande" d="M-7.676,191.972c-2.5,0-2.5-13.065-5.007-13.065s-2.5,13.065-5.007,13.065-2.5-2.3-5.007-2.3-2.5,2.3-5.006,2.3-2.5-1.741-5.007-1.741-2.5,1.741-5.006,1.741-2.5-18.564-5.006-18.564-2.5,18.564-5.006,18.564-2.5-44.819-5.007-44.819-3.019,44.819-5.523,44.819h0c-2.5,0-2.5-6.764-5.007-6.764s-2.5,6.764-5.007,6.764-2.5-36.1-5.006-36.1-2.5,36.1-5.007,36.1-2.5-1.741-5.006-1.741-2.5,1.741-5.007,1.741-2.5-18.564-5.006-18.564-2.5,18.564-5.006,18.564-2.5-44.819-5.007-44.819-2.5,44.819-5.006,44.819" transform="translate(114.756 -121.653)" fill="none" stroke="#3364b7" stroke-miterlimit="10" stroke-width="2"/>
+  </g>
+</svg>

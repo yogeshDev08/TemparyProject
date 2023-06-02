@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="72" viewBox="0 0 113 72">
+  <defs>
+    <clipPath id="clip-Icon-skarande">
+      <rect width="113" height="72"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-skarande" clip-path="url(#clip-Icon-skarande)">
+    <rect width="113" height="72" fill="rgba(0,0,0,0)"/>
+    <g id="Icon-skarande-2" data-name="Icon-skarande" transform="translate(-1021.072 -100.38)">
+      <g id="Group_58" data-name="Group 58" transform="translate(1057.069 107.381)">
+        <path id="Path_459" data-name="Path 459" d="M1079.36,162.1s-9.21,14.857-12.309,20.793-10.213,17.721-9.973,18.17c0,0,8.706-2.372,14.339-8.879s12.881-16.733,14.708-19.357,3.021-4.772,2.6-5.367a21.421,21.421,0,0,0-2.222-2.547C1085.82,164.512,1079.73,161.508,1079.36,162.1Z" transform="translate(-1057.069 -136.735)" fill="#ccd8ed"/>
+        <path id="Path_460" data-name="Path 460" d="M1107.5,131.773a23.789,23.789,0,0,0,4.958,2.593c.285-.135,1.2-.8.878-1.331s-1.8-1.242-.634-2.616,5.341-4.837,6.944-7.028c3.37-4.6,1.942-8.74,3.467-9.295.918-.334,2.6.382,2.876-2.555.249-2.651-2.171-7.606-6.438-.485S1107.41,131.43,1107.5,131.773Z" transform="translate(-1084.158 -107.381)" fill="#3364b7"/>
+      </g>
+      <path id="Path_461" data-name="Path 461" d="M1114.2,155.688a.736.736,0,1,1-.336-.454A.737.737,0,0,1,1114.2,155.688Z" transform="translate(-29.911 -25.649)" fill="#ccd8ed"/>
+      <path id="Path_462" data-name="Path 462" d="M1127.39,134.469a.738.738,0,1,1-.9-.536A.738.738,0,0,1,1127.39,134.469Z" transform="translate(-36.995 -14.25)" fill="#ccd8ed"/>
+      <path id="Path_463" data-name="Path 463" d="M1139.65,114.229a.737.737,0,1,1-.338-.456.738.738,0,0,1,.338.456Z" transform="translate(-43.578 -3.379)" fill="#ccd8ed"/>
+    </g>
+  </g>
+</svg>

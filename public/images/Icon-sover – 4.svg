@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="183" height="314" viewBox="0 0 183 314">
+  <defs>
+    <clipPath id="clip-Icon-sover_4">
+      <rect width="183" height="314"/>
+    </clipPath>
+  </defs>
+  <g id="Icon-sover_4" data-name="Icon-sover – 4" clip-path="url(#clip-Icon-sover_4)">
+    <rect width="183" height="314" fill="rgba(0,0,0,0)"/>
+    <g id="Icon-24-06" transform="translate(-740.993 -241.693)">
+      <path id="Path_580" data-name="Path 580" d="M3138.8,2167.75c-25.844,20.456-67.533,45.67-119.379,49.619-5.926.453-11.858.607-17.8.5v4c1.145.02,2.29.053,3.435.053q7.352,0,14.7-.561c52.889-4.04,95.333-29.721,121.625-50.553,28.46-22.55,43.077-42.394,43.237-42.614v-5.86a287.93,287.93,0,0,1-45.818,45.417Z" transform="translate(-2260.628 -1666.562)" fill="#003da5" stroke="#003da5" stroke-width="1"/>
+      <path id="Path_614" data-name="Path 614" d="M304.509,424.985a31.358,31.358,0,0,1,7.559-25.429,25.324,25.324,0,1,0,10.815,48.937C313.265,443.908,306.2,435.472,304.509,424.985Z" transform="translate(528.432 21.137)" fill="#003da5"/>
+    </g>
+  </g>
+</svg>

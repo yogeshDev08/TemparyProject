@@ -1,0 +1,60 @@
+{
+    "narDetails": [
+        {
+            "id": 1,
+            "img": "./images/icon-gar-sm.svg",
+            "title": "Går",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 2,
+            "img": "./images/Icon-springer-sm.svg",
+            "title": "Springer",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 3,
+            "img": "./images/Icon-star-sm.svg",
+            "title": "Står",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 4,
+            "img": "./images/icon-bojer-sm.svg",
+            "title": "Böjer dig fram",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 5,
+            "img": "./images/icon-sitter-sm.svg",
+            "title": "Sitter",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 6,
+            "img": "./images/icon-staller-sm.svg",
+            "title": "Ställer dig upp",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 7,
+            "img": "./images/icon-ligger-sm.svg",
+            "title": "Ligger ner",
+            "cols":1,
+            "selected": false
+        },
+        {
+            "id": 8,
+            "img": "./images/Icon-sover-sm.svg",
+            "title": "Sover",
+            "cols":1,
+            "selected": false
+        }
+    ]
+}
